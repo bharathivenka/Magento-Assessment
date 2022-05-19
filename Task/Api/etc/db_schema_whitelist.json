@@ -1,0 +1,14 @@
+{
+    "customer_table": {
+        "column": {
+            "id": true,
+            "sku": true,
+            "customer_id": true,
+            "quote_id": true,
+            "created": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
